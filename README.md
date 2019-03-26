@@ -30,4 +30,14 @@ step2: run info_extract-copy.py
 step3:run test2.py
 
 The text document contains the (almost) refined wikipedia page
+
 still got work to do.
+
+Problems that need to be worked upon:
+
+1.transferring  the data to a  docx file
+
+2.removing a lot of elements from the wikipedia search page
+
+3.Applying proper formatting
+
