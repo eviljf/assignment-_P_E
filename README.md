@@ -41,3 +41,20 @@ Problems that need to be worked upon:
 
 3.Applying proper formatting
 
+If anyone is willing to collaborate , here is the documentation required:
+
+for python-docx:
+
+https://python-docx.readthedocs.io/en/latest/user/quickstart.html
+
+The text can be edited using RegEx:
+
+https://www.w3schools.com/python/python_regex.asp
+
+
+I know that there are probably much better ways to do this, but i am kinda new to python.
+
+Also, please forgive me for the shitty structure and and using text files too much.
+
+
+
